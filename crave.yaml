@@ -1,0 +1,13 @@
+config:
+  project: "lineage-18.1"
+
+sources:
+  - name: "device/xiaomi/dandelion"
+    remote: "https://github.com/ingsha09/device_xiaomi_dandelion"
+    branch: "lineage-18.1"
+  - name: "vendor/xiaomi/dandelion"
+    remote: "https://github.com/ingsha09/vendor_xiaomi_dandelion"
+    branch: "lineage-18.1"
+  - name: "kernel/xiaomi/dandelion"
+    remote: "https://github.com/ingsha09/android_kernel_xiaomi_dandelion"
+    branch: "lineage-18.1"
